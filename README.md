@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Palash Kondekar(@pkondekar29)
+- 👀 I’m interested in everything related to **Tech** :p
+- 🌱 I’m currently learning leverging **Microservices archtecture for scale and resilience**.
+- 💞️ I’m looking to collaborate on **any backend service**.
+- 📫 How to reach me ***kondekarpalash@gmail.com***
